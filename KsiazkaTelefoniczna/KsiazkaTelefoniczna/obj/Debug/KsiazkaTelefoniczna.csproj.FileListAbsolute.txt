@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Programy github\KsiazkaTelefoniczna\KsiazkaTelefoniczna\KsiazkaTelefoniczna\bin\Debug\KsiazkaTelefoniczna.exe.config
+C:\Users\User\Desktop\Programy github\KsiazkaTelefoniczna\KsiazkaTelefoniczna\KsiazkaTelefoniczna\bin\Debug\KsiazkaTelefoniczna.exe
+C:\Users\User\Desktop\Programy github\KsiazkaTelefoniczna\KsiazkaTelefoniczna\KsiazkaTelefoniczna\bin\Debug\KsiazkaTelefoniczna.pdb
+C:\Users\User\Desktop\Programy github\KsiazkaTelefoniczna\KsiazkaTelefoniczna\KsiazkaTelefoniczna\obj\Debug\KsiazkaTelefoniczna.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Programy github\KsiazkaTelefoniczna\KsiazkaTelefoniczna\KsiazkaTelefoniczna\obj\Debug\KsiazkaTelefoniczna.Properties.Resources.resources
+C:\Users\User\Desktop\Programy github\KsiazkaTelefoniczna\KsiazkaTelefoniczna\KsiazkaTelefoniczna\obj\Debug\KsiazkaTelefoniczna.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Programy github\KsiazkaTelefoniczna\KsiazkaTelefoniczna\KsiazkaTelefoniczna\obj\Debug\KsiazkaTelefoniczna.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Programy github\KsiazkaTelefoniczna\KsiazkaTelefoniczna\KsiazkaTelefoniczna\obj\Debug\KsiazkaTelefoniczna.exe
+C:\Users\User\Desktop\Programy github\KsiazkaTelefoniczna\KsiazkaTelefoniczna\KsiazkaTelefoniczna\obj\Debug\KsiazkaTelefoniczna.pdb
+C:\Users\User\Desktop\Programy github\KsiazkaTelefoniczna\KsiazkaTelefoniczna\KsiazkaTelefoniczna\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\Programy github\KsiazkaTelefoniczna\KsiazkaTelefoniczna\KsiazkaTelefoniczna\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\Programy github\KsiazkaTelefoniczna\KsiazkaTelefoniczna\KsiazkaTelefoniczna\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\Programy github\KsiazkaTelefoniczna\KsiazkaTelefoniczna\KsiazkaTelefoniczna\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\Programy github\KsiazkaTelefoniczna\KsiazkaTelefoniczna\KsiazkaTelefoniczna\obj\Debug\KsiazkaTelefoniczna.Form1.resources
+C:\Users\User\Desktop\Programy github\KsiazkaTelefoniczna\KsiazkaTelefoniczna\KsiazkaTelefoniczna\obj\Debug\KsiazkaTelefoniczna.csproj.CopyComplete
